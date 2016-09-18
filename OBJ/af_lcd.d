@@ -1,0 +1,17 @@
+.\obj\af_lcd.o: AF_LCD_LIB\AF_LCD.cpp
+.\obj\af_lcd.o: AF_LCD_LIB\AF_sys.h
+.\obj\af_lcd.o: AF_LCD_LIB\AF_Font_24x16.h
+.\obj\af_lcd.o: AF_LCD_LIB\AF_LCD.h
+.\obj\af_lcd.o: C:\Keil\ARM\Inc\NXP\LPC17xx\lpc17xx.h
+.\obj\af_lcd.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\obj\af_lcd.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\af_lcd.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\af_lcd.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\af_lcd.o: C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\obj\af_lcd.o: AF_LCD_LIB\AF_va_list.h
+.\obj\af_lcd.o: AF_LCD_LIB\AF_stdarg.h
+.\obj\af_lcd.o: AF_LCD_LIB\..\AF_LIB\AF_string.h
+.\obj\af_lcd.o: AF_LCD_LIB\..\AF_LIB\AF_size_t.h
+.\obj\af_lcd.o: AF_LCD_LIB\B_Roya24h.h
+.\obj\af_lcd.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
+.\obj\af_lcd.o: AF_LCD_LIB\bfctype.h
