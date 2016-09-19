@@ -5,7 +5,6 @@
 ".\obj\uart.o"
 ".\obj\af_cpu.o"
 ".\obj\af_string.o"
-".\obj\af_flcd.o"
 ".\obj\af_lcd.o"
 --strict --scatter ".\OBJ\LCD.sct"
 --summary_stderr --info summarysizes --map --xref --callgraph --symbols

@@ -485,11 +485,6 @@
               <FilePath>.\AF_LIB\AF_string.cpp</FilePath>
             </File>
             <File>
-              <FileName>AF_FLCD.cpp</FileName>
-              <FileType>8</FileType>
-              <FilePath>.\AF_LIB\AF_FLCD.cpp</FilePath>
-            </File>
-            <File>
               <FileName>AF_LCD.cpp</FileName>
               <FileType>8</FileType>
               <FilePath>.\AF_LCD_LIB\AF_LCD.cpp</FilePath>

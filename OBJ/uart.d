@@ -1,0 +1,15 @@
+.\obj\uart.o: AF_LIB\UART.cpp
+.\obj\uart.o: C:\Keil\ARM\Inc\NXP\LPC17xx\lpc17XX.h
+.\obj\uart.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\obj\uart.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\obj\uart.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\obj\uart.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\obj\uart.o: C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
+.\obj\uart.o: AF_LIB\UART.h
+.\obj\uart.o: AF_LIB\AF_define.h
+.\obj\uart.o: AF_LIB\AF_CPU.h
+.\obj\uart.o: AF_LIB\stdint.h
+.\obj\uart.o: AF_LIB\..\AF_LCD_LIB\AF_va_list.h
+.\obj\uart.o: AF_LIB\..\AF_LCD_LIB\AF_stdarg.h
+.\obj\uart.o: AF_LIB\AF_string.h
+.\obj\uart.o: AF_LIB\AF_size_t.h

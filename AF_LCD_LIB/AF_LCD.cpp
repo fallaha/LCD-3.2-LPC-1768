@@ -12,7 +12,7 @@
 #include "AF_stdarg.h"
 #include "..\AF_LIB\AF_string.h"
 #include "..\AF_LIB\AF_size_t.h"
-#include "B_Roya24h.h"
+#include "sfont.h"
 
 static volatile unsigned short TextColor = White, BackColor = Black;
 

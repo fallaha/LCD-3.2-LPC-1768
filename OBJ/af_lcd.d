@@ -12,6 +12,6 @@
 .\obj\af_lcd.o: AF_LCD_LIB\AF_stdarg.h
 .\obj\af_lcd.o: AF_LCD_LIB\..\AF_LIB\AF_string.h
 .\obj\af_lcd.o: AF_LCD_LIB\..\AF_LIB\AF_size_t.h
-.\obj\af_lcd.o: AF_LCD_LIB\B_Roya24h.h
+.\obj\af_lcd.o: AF_LCD_LIB\sfont.h
 .\obj\af_lcd.o: C:\Keil\ARM\ARMCC\Bin\..\include\stdio.h
 .\obj\af_lcd.o: AF_LCD_LIB\bfctype.h

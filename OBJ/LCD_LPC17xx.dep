@@ -1,85 +1,70 @@
 Dependencies for Project 'LCD', Target 'LPC17xx': (DO NOT MODIFY !)
-F (.\startup_LPC17xx.s)(0x4F5932E6)(--cpu Cortex-M3 -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx--pd "__UVISION_VERSION SETA 514" --pd "NO_CRP SETA 1"--list .\obj\startup_lpc17xx.lst --xref -o .\obj\startup_lpc17xx.o --depend .\obj\startup_lpc17xx.d)
-F (.\system_LPC17xx.c)(0x4FAF76FC)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --cpp11-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514"-o .\obj\system_lpc17xx.o --omf_browse .\obj\system_lpc17xx.crf --depend .\obj\system_lpc17xx.d)
+F (.\startup_LPC17xx.s)(0x57DF8AF2)(--cpu Cortex-M3 -g --apcs=interwork -I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx--pd "__UVISION_VERSION SETA 514" --pd "NO_CRP SETA 1"--list .\obj\startup_lpc17xx.lst --xref -o .\obj\startup_lpc17xx.o --depend .\obj\startup_lpc17xx.d)
+F (.\system_LPC17xx.c)(0x57DF8AF2)(-c --cpu Cortex-M3 -g -O0 --apcs=interwork --cpp11-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514"-o .\obj\system_lpc17xx.o --omf_browse .\obj\system_lpc17xx.crf --depend .\obj\system_lpc17xx.d)
 I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x54763248)
 I (C:\Keil\ARM\Inc\NXP\LPC17xx\LPC17xx.h)(0x534668B2)
 I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x53466AAC)
 I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x53466AAC)
 I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x53466AAC)
 I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x534668B2)
-F (.\main.cpp)(0x57DEE103)(--cpp -c --cpu Cortex-M3 -g -O0 --apcs=interwork --cpp11 --cpp11-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514"-o .\obj\main.o --omf_browse .\obj\main.crf --depend .\obj\main.d)
+F (.\main.cpp)(0x57DF8AF2)(--cpp -c --cpu Cortex-M3 -g -O0 --apcs=interwork --cpp11 --cpp11-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514"-o .\obj\main.o --omf_browse .\obj\main.crf --depend .\obj\main.d)
 I (C:\Keil\ARM\Inc\NXP\LPC17xx\lpc17xx.h)(0x534668B2)
 I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x53466AAC)
 I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x54763248)
 I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x53466AAC)
 I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x53466AAC)
 I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x534668B2)
-I (.\AF_LIB\UART.h)(0x57D811C4)
-I (.\AF_LIB\AF_define.h)(0x57D70202)
-I (.\AF_LIB\AF_CPU.h)(0x57D7006C)
-I (.\AF_LIB\AF_string.h)(0x57D7EC70)
-I (.\AF_LIB\AF_size_t.h)(0x57D7E9D4)
+I (.\AF_LIB\UART.h)(0x57DF8AF1)
+I (.\AF_LIB\AF_define.h)(0x57DF8AF1)
+I (.\AF_LIB\AF_CPU.h)(0x57DF8AF1)
+I (.\AF_LIB\AF_string.h)(0x57DF8AF1)
+I (.\AF_LIB\AF_size_t.h)(0x57DF8AF1)
 I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x54763248)
-I (.\AF_LCD_LIB\AF_LCD.h)(0x57DEE082)
-I (.\AF_LCD_LIB\AF_sys.h)(0x4C88816E)
-I (.\AF_LCD_LIB\AF_Font_24x16.h)(0x57D92F27)
-I (.\AF_LCD_LIB\AF_image.h)(0x4C888164)
-F (.\AF_LIB\UART.cpp)(0x57DEE0F1)(--cpp -c --cpu Cortex-M3 -g -O0 --apcs=interwork --cpp11-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514"-o .\obj\uart.o --omf_browse .\obj\uart.crf --depend .\obj\uart.d)
+I (.\AF_LCD_LIB\AF_LCD.h)(0x57DF8AF1)
+I (.\AF_LCD_LIB\AF_sys.h)(0x57DF8AF1)
+I (.\AF_LCD_LIB\AF_Font_24x16.h)(0x57DF8AF1)
+I (.\AF_LCD_LIB\AF_image.h)(0x57DF8AF1)
+F (.\AF_LIB\UART.cpp)(0x57DF8AF1)(--cpp -c --cpu Cortex-M3 -g -O0 --apcs=interwork --cpp11-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514"-o .\obj\uart.o --omf_browse .\obj\uart.crf --depend .\obj\uart.d)
 I (C:\Keil\ARM\Inc\NXP\LPC17xx\lpc17XX.h)(0x534668B2)
 I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x53466AAC)
 I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x54763248)
 I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x53466AAC)
 I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x53466AAC)
 I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x534668B2)
-I (AF_LIB\UART.h)(0x57D811C4)
-I (AF_LIB\AF_define.h)(0x57D70202)
-I (AF_LIB\AF_CPU.h)(0x57D7006C)
-I (AF_LIB\stdint.h)(0x57D658DA)
-I (AF_LIB\..\AF_LCD_LIB\AF_va_list.h)(0x479F90F0)
-I (AF_LIB\..\AF_LCD_LIB\AF_stdarg.h)(0x57DEE0DD)
-I (AF_LIB\AF_string.h)(0x57D7EC70)
-I (AF_LIB\AF_size_t.h)(0x57D7E9D4)
-F (.\AF_LIB\AF_CPU.cpp)(0x57D700BF)(--cpp -c --cpu Cortex-M3 -g -O0 --apcs=interwork --cpp11-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514"-o .\obj\af_cpu.o --omf_browse .\obj\af_cpu.crf --depend .\obj\af_cpu.d)
-I (AF_LIB\AF_CPU.h)(0x57D7006C)
+I (AF_LIB\UART.h)(0x57DF8AF1)
+I (AF_LIB\AF_define.h)(0x57DF8AF1)
+I (AF_LIB\AF_CPU.h)(0x57DF8AF1)
+I (AF_LIB\stdint.h)(0x57DF8AF2)
+I (AF_LIB\..\AF_LCD_LIB\AF_va_list.h)(0x57DF8AF1)
+I (AF_LIB\..\AF_LCD_LIB\AF_stdarg.h)(0x57DF8AF1)
+I (AF_LIB\AF_string.h)(0x57DF8AF1)
+I (AF_LIB\AF_size_t.h)(0x57DF8AF1)
+F (.\AF_LIB\AF_CPU.cpp)(0x57DF8AF1)(--cpp -c --cpu Cortex-M3 -g -O0 --apcs=interwork --cpp11-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514"-o .\obj\af_cpu.o --omf_browse .\obj\af_cpu.crf --depend .\obj\af_cpu.d)
+I (AF_LIB\AF_CPU.h)(0x57DF8AF1)
 I (C:\Keil\ARM\Inc\NXP\LPC17xx\lpc17XX.h)(0x534668B2)
 I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x53466AAC)
 I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x54763248)
 I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x53466AAC)
 I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x53466AAC)
 I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x534668B2)
-I (AF_LIB\AF_define.h)(0x57D70202)
-F (.\AF_LIB\AF_string.cpp)(0x57D7EC9E)(--cpp -c --cpu Cortex-M3 -g -O0 --apcs=interwork --cpp11-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514"-o .\obj\af_string.o --omf_browse .\obj\af_string.crf --depend .\obj\af_string.d)
-I (AF_LIB\AF_size_t.h)(0x57D7E9D4)
-F (.\AF_LIB\AF_FLCD.cpp)(0x57DEE0D5)(--cpp -c --cpu Cortex-M3 -g -O0 --apcs=interwork --cpp11-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514"-o .\obj\af_flcd.o --omf_browse .\obj\af_flcd.crf --depend .\obj\af_flcd.d)
-I (AF_LIB\AF_FLCD.h)(0x57DEE078)
-I (AF_LIB\..\AF_LCD_LIB\AF_LCD.h)(0x57DEE082)
-I (AF_LIB\..\AF_LCD_LIB\AF_sys.h)(0x4C88816E)
-I (AF_LIB\..\AF_LCD_LIB\AF_Font_24x16.h)(0x57D92F27)
+I (AF_LIB\AF_define.h)(0x57DF8AF1)
+F (.\AF_LIB\AF_string.cpp)(0x57DF8AF1)(--cpp -c --cpu Cortex-M3 -g -O0 --apcs=interwork --cpp11-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514"-o .\obj\af_string.o --omf_browse .\obj\af_string.crf --depend .\obj\af_string.d)
+I (AF_LIB\AF_size_t.h)(0x57DF8AF1)
+F (.\AF_LCD_LIB\AF_LCD.cpp)(0x57DF8C3A)(--cpp -c --cpu Cortex-M3 -g -O0 --apcs=interwork --cpp11-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514"-o .\obj\af_lcd.o --omf_browse .\obj\af_lcd.crf --depend .\obj\af_lcd.d)
+I (AF_LCD_LIB\AF_sys.h)(0x57DF8AF1)
+I (AF_LCD_LIB\AF_Font_24x16.h)(0x57DF8AF1)
+I (AF_LCD_LIB\AF_LCD.h)(0x57DF8AF1)
 I (C:\Keil\ARM\Inc\NXP\LPC17xx\lpc17xx.h)(0x534668B2)
 I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x53466AAC)
 I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x54763248)
 I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x53466AAC)
 I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x53466AAC)
 I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x534668B2)
-I (AF_LIB\..\AF_LCD_LIB\AF_va_list.h)(0x479F90F0)
-I (AF_LIB\..\AF_LCD_LIB\AF_stdarg.h)(0x57DEE0DD)
-I (AF_LIB\AF_string.h)(0x57D7EC70)
-I (AF_LIB\AF_size_t.h)(0x57D7E9D4)
-F (.\AF_LCD_LIB\AF_LCD.cpp)(0x57DEE155)(--cpp -c --cpu Cortex-M3 -g -O0 --apcs=interwork --cpp11-I C:\Keil\ARM\RV31\INC-I C:\Keil\ARM\CMSIS\Include-I C:\Keil\ARM\Inc\NXP\LPC17xx-D__UVISION_VERSION="514"-o .\obj\af_lcd.o --omf_browse .\obj\af_lcd.crf --depend .\obj\af_lcd.d)
-I (AF_LCD_LIB\AF_sys.h)(0x4C88816E)
-I (AF_LCD_LIB\AF_Font_24x16.h)(0x57D92F27)
-I (AF_LCD_LIB\AF_LCD.h)(0x57DEE082)
-I (C:\Keil\ARM\Inc\NXP\LPC17xx\lpc17xx.h)(0x534668B2)
-I (C:\Keil\ARM\CMSIS\Include\core_cm3.h)(0x53466AAC)
-I (C:\Keil\ARM\ARMCC\include\stdint.h)(0x54763248)
-I (C:\Keil\ARM\CMSIS\Include\core_cmInstr.h)(0x53466AAC)
-I (C:\Keil\ARM\CMSIS\Include\core_cmFunc.h)(0x53466AAC)
-I (C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h)(0x534668B2)
-I (AF_LCD_LIB\AF_va_list.h)(0x479F90F0)
-I (AF_LCD_LIB\AF_stdarg.h)(0x57DEE0DD)
-I (AF_LCD_LIB\..\AF_LIB\AF_string.h)(0x57D7EC70)
-I (AF_LCD_LIB\..\AF_LIB\AF_size_t.h)(0x57D7E9D4)
-I (AF_LCD_LIB\B_Roya24h.h)(0x57DEA6FD)
+I (AF_LCD_LIB\AF_va_list.h)(0x57DF8AF1)
+I (AF_LCD_LIB\AF_stdarg.h)(0x57DF8AF1)
+I (AF_LCD_LIB\..\AF_LIB\AF_string.h)(0x57DF8AF1)
+I (AF_LCD_LIB\..\AF_LIB\AF_size_t.h)(0x57DF8AF1)
+I (AF_LCD_LIB\sfont.h)(0x57DF8AF1)
 I (C:\Keil\ARM\ARMCC\include\stdio.h)(0x54763248)
-I (AF_LCD_LIB\bfctype.h)(0x57DC3DF7)
-F (.\AF_LCD_LIB\AF_va_list.h)(0x479F90F0)()
+I (AF_LCD_LIB\bfctype.h)(0x57DF8AF1)
+F (.\AF_LCD_LIB\AF_va_list.h)(0x57DF8AF1)()
