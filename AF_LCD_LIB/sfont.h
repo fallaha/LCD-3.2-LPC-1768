@@ -15,8 +15,8 @@
  * Create time: 18:43 09-18-2016                                               *
  *******************************************************************************/
 
-#ifndef _B_ROYA24H_H
-#define _B_ROYA24H_H
+#ifndef _SFONT_H
+#define _SFONT_H
 
 #include <stdio.h>
 #include "bfctype.h" 
@@ -3921,7 +3921,7 @@ USHORT GetExtendedIndex_roya (USHORT glyph, const FONTHEADER_BFC *pFontHeader)
 #endif
 
 
-#endif  //_B_ROYA24H_H
+#endif  //_SFONT_H
 
 
 
