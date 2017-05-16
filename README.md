@@ -45,7 +45,7 @@ in this case i set the Height a fix number and it number is 24. it is very impor
 
 for creat a new special font you should download the BitFontCreator pro 3.5 Software.
 
-![LCD](http://cdn.persiangig.com/preview/UWDqpzGkjC/soft.jpg"BitFontCreator pro 3.5")
+![LCD](http://cdn.persiangig.com/preview/UWDqpzGkjC/soft.jpg " BitFontCreator pro 3.5")
 
 
 set below option! and click Data Format ... (below pic)
@@ -55,19 +55,19 @@ set below option! and click Data Format ... (below pic)
 
 then set option and click ok. (below pic)
 
-![LCD](http://cdn.persiangig.com/preview/vwFOIrfRvI/3.png"BitFontCreator pro 3.5")
+![LCD](http://cdn.persiangig.com/preview/vwFOIrfRvI/3.png " BitFontCreator pro 3.5")
 
 
 dont forget, that we set Height to 24 so se it ... (below pic)
 
-![LCD](http://cdn.persiangig.com/preview/qGScDhb65j/4.png"BitFontCreator pro 3.5")
+![LCD](http://cdn.persiangig.com/preview/qGScDhb65j/4.png " BitFontCreator pro 3.5")
 
 
 
 
 now, we can save it .c file (below pic)
 
-![LCD](http://cdn.persiangig.com/preview/uSuZlkSZRv/5.png"BitFontCreator pro 3.5")
+![LCD](http://cdn.persiangig.com/preview/uSuZlkSZRv/5.png " BitFontCreator pro 3.5")
 
 
 we crete a new font for our LCD. now you follow command blow.
@@ -78,15 +78,15 @@ nice, you should few edit to .c file. for it -> open the .c file that save it in
 the "File_name" is the file name that you select it for save .c file
 
 
-|Defualt name        |       new name|
-| ------------- |:-------------:| -----:|
-|fontFile_name24h_data_table        |   font24h_data_table  |
-|fontFile_name24h_offset_table      |  font24h_offset_table  |
-|fontFile_name24h_width_table       | font24h_width_table     |
-|fontFile_name24h_ascii_index_table |  font24h_ascii_index_table |
-|fontFile_name24h_glyph_ranges      |  font24h_glyph_ranges |
-|fontFile_name24h_glyph_set         |  font24h_glyph_set |
-|fontFile_name24h                      |  font24h |
+Defualt name        |       new name
+ ------------- |:-------------:
+fontFile_name24h_data_table        |   font24h_data_table 
+fontFile_name24h_offset_table      |  font24h_offset_table 
+fontFile_name24h_width_table       | font24h_width_table    
+fontFile_name24h_ascii_index_table |  font24h_ascii_index_table
+fontFile_name24h_glyph_ranges      |  font24h_glyph_ranges
+fontFile_name24h_glyph_set         |  font24h_glyph_set
+fontFile_name24h                   |  font24h
 
 relay you can delete the file name or you can replace the file name with NULL "" 
 
