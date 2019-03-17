@@ -142,9 +142,6 @@ this was My Project that Write By me (ali fallah) in 19 sep 2016 (95/06/29).
 
 i hope this my work can help you... :)
 
-ForNOW...!
-
-GoodBye...!
   
 
 
